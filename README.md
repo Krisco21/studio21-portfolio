@@ -3,7 +3,7 @@
 Publiczna strona portfolio, ostylowana design systemem **21zmysłów**
 (czcionka Space Grotesk, Signal Orange, kafle 21px).
 
-🌐 **Live:** https://krisco21.github.io/studio21-portfolio/
+🌐 **Live:** https://twentyonelab.github.io/studio21-portfolio/
 
 Strona to **jeden samowystarczalny plik** `index.html` — zdjęcia i czcionki
 są w nim osadzone, więc działa bez internetu i bez serwera.
@@ -29,7 +29,7 @@ pod adresem powyżej.
 ## 🌍 Własna domena (na później)
 
 Gdy będziesz mieć domenę:
-1. W panelu DNS rejestratora dodaj rekord **CNAME** (`www` → `krisco21.github.io`)
+1. W panelu DNS rejestratora dodaj rekord **CNAME** (`www` → `twentyonelab.github.io`)
    lub rekordy **A** dla domeny głównej (`185.199.108–111.153`).
 2. W GitHub → Settings → Pages → **Custom domain** wpisz swoją domenę.
 3. GitHub wystawi darmowy certyfikat HTTPS.
